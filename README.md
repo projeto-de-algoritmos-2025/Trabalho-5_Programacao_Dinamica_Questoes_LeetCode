@@ -35,11 +35,11 @@
 
 ### [(1255. Maximum Score Words Formed by Letters)](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![(1255. Maximum Score Words Formed by Letters)](Imagens/dishes.png)
+![(1255. Maximum Score Words Formed by Letters)](Imagens/MaxScore.png)
 
 ### [(894. All Possible Full Binary Trees)](https://leetcode.com/problems/all-possible-full-binary-trees/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![(894. All Possible Full Binary Trees)](Imagens/deciBina.png) 
+![(894. All Possible Full Binary Trees)](Imagens/PossibleFBT.png) 
 
 
 ## Link do vídeo da apresentação da dupla 
