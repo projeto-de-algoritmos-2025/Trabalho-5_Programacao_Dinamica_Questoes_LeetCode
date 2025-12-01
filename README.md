@@ -1,7 +1,7 @@
 # Algoritmos Ambiciosos!
 
 **Número da Dupla**: 41<br>
-**Conteúdo do Trabalho**: Algoritmos Ambiciosos!<br>
+**Conteúdo do Trabalho**: Progamacao Dinamica!<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -13,7 +13,7 @@
 ### Questões do Guilherme 
 | Título | Responsável | Nível de Dificuldade | 
 | -- | -- | -- |
-| 1402. Reducing Dishes| Guilherme Maciel | Díficil |
+| 1255. Maximum Score Words Formed by Letters| Guilherme Maciel | Díficil |
 | 894. All Possible Full Binary Trees | Guilherme Maciel | Medio |
 
 ### Questões do João Pedro
@@ -78,11 +78,12 @@ Explanation: You can allocate to the first, second and third child with 2, 1, 2 
 rode o C: 
 
 ```
-Input: satisfaction = [-1,-8,0,5,-9]
-Output: 14
-Explanation: After Removing the second and last dish, the maximum total like-time coefficient will be equal to (-1*1 + 0*2 + 5*3 = 14).
-Each dish is prepared in one unit of time.
-
+Input: words = ["dog","cat","dad","good"], letters = ["a","a","c","d","d","d","g","o","o"], score = [1,0,9,5,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0]
+Output: 23
+Explanation:
+Score  a=1, c=9, d=5, g=3, o=2
+Given letters, we can form the words "dad" (5+1+5) and "good" (3+2+2+5) with a score of 23.
+Words "dad" and "dog" only get a score of 21.
 
 ```
 
@@ -92,10 +93,8 @@ Each dish is prepared in one unit of time.
 rode o C: 
 
 ```
-Input: n = "32"
-Output: 3
-Explanation: 10 + 11 + 11 = 32  
-
+Input: n = 7
+Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,null,null,null,null,0,0],[0,0,0,0,0,null,null,0,0]]
 
 ```
 
