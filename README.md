@@ -1,4 +1,4 @@
-# Algoritmos Ambiciosos!
+# Progamacao Dinamica!
 
 **Número da Dupla**: 41<br>
 **Conteúdo do Trabalho**: Progamacao Dinamica!<br>
@@ -33,13 +33,13 @@
 ![ (135. Candy)](/Imagens/Captura%20de%20tela%20de%202025-10-13%2000-14-04.png)
 
 
-### [(1402. Reducing Dishes)](https://leetcode.com/problems/reducing-dishes/description/?envType=problem-list-v2&envId=greedy)
+### [(1255. Maximum Score Words Formed by Letters)](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![(1402. Reducing Dishes)](Imagens/dishes.png)
+![(1255. Maximum Score Words Formed by Letters)](Imagens/dishes.png)
 
-### [(1689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/?envType=problem-list-v2&envId=greedy)
+### [(894. All Possible Full Binary Trees)](https://leetcode.com/problems/all-possible-full-binary-trees/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![(1689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](Imagens/deciBina.png) 
+![(894. All Possible Full Binary Trees)](Imagens/deciBina.png) 
 
 
 ## Link do vídeo da apresentação da dupla 
@@ -73,9 +73,9 @@ Explanation: You can allocate to the first, second and third child with 2, 1, 2 
 
 ```
 
-### Questão 03
+### Questão 1255
 
-rode o C: 
+rode o C: Guilherme/1255_Maximum_Score_Words_Formed_by_Letters.c
 
 ```
 Input: words = ["dog","cat","dad","good"], letters = ["a","a","c","d","d","d","g","o","o"], score = [1,0,9,5,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0]
@@ -88,9 +88,9 @@ Words "dad" and "dog" only get a score of 21.
 ```
 
 
-### Questão 04
+### Questão 894
 
-rode o C: 
+rode o C: Guilherme/894_All_Possible_Full_Binary_Trees.c
 
 ```
 Input: n = 7
