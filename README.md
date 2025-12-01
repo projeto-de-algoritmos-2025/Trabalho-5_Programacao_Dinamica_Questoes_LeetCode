@@ -14,7 +14,7 @@
 | Título | Responsável | Nível de Dificuldade | 
 | -- | -- | -- |
 | 1402. Reducing Dishes| Guilherme Maciel | Díficil |
-| 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | Guilherme Maciel | Medio |
+| 894. All Possible Full Binary Trees | Guilherme Maciel | Medio |
 
 ### Questões do João Pedro
 | Título | Responsável | Nível de Dificuldade | 
