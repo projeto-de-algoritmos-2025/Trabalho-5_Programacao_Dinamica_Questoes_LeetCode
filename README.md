@@ -19,18 +19,19 @@
 ### Questões do João Pedro
 | Título | Responsável | Nível de Dificuldade | 
 | -- | -- | -- |
-|44. Wildcard Matching | João Pedro | Díficil |
-|135. Candy | João Pedro | Difícil | 
+| 1092. Shortest Common Supersequence  | João Pedro | Díficil |
+| 2742. Painting the Walls | João Pedro | Difícil | 
 
 
 ## Screenshots
-### [(44. Wildcard Matching)](https://leetcode.com/problems/wildcard-matching/description/?envType=problem-list-v2&envId=greedy)
+### [(1092. Shortest Common Supersequence)](https://leetcode.com/problems/shortest-common-supersequence/description/)
 
-![(44. Wildcard Matching)](/Imagens/Captura%20de%20tela%20de%202025-10-13%2000-13-37.png)
+![(1092. Shortest Common Supersequence)](/Imagens/1092.png)
 
-### [ (135. Candy)](https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy)
+### [ (2742. Painting the Walls)](https://leetcode.com/problems/painting-the-walls/description/)
 
-![ (135. Candy)](/Imagens/Captura%20de%20tela%20de%202025-10-13%2000-14-04.png)
+
+![(2742. Painting the Walls)](/Imagens/2742.png)
 
 
 ### [(1255. Maximum Score Words Formed by Letters)](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming)
@@ -44,32 +45,34 @@
 
 ## Link do vídeo da apresentação da dupla 
 
-[(Link do Vídeo)](https://youtu.be/QxMIxEWsaZM)
+[(Link do Vídeo)]()
 
 
 ## Guia de execução
 
-### Questão 44
+### Questão 1092
 
-rode o C++: Joao_Pedro/44_WildcardMatching.cpp 
-
-```
-Input: s = "aa", p = "a"
-Output: false
-Explanation: "a" does not match the entire string "aa".
-
+rode o Python no leetcode: Joao_Pedro/1092.py 
 
 ```
+Input: str1 = "abac", str2 = "cab"
+Output: "cabac"
+Explanation: 
+str1 = "abac" is a subsequence of "cabac" because we can delete the first "c".
+str2 = "cab" is a subsequence of "cabac" because we can delete the last "ac".
+The answer provided is the shortest such string that satisfies these properties.
 
-### Questão 135
-
-rode o C++: Joao_Pedro/135_Candy.cpp 
 
 ```
-Input: ratings = [1,0,2]
-Output: 5
-Explanation: You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
 
+### Questão 2742 
+
+rode o seguinte Python no leetcode: Joao_Pedro/2742.py 
+
+```
+Input: cost = [1,2,3,2], time = [1,2,3,2]
+Output: 3
+Explanation: The walls at index 0 and 1 will be painted by the paid painter, and it will take 3 units of time; meanwhile, the free painter will paint the walls at index 2 and 3, free of cost in 2 units of time. Thus, the total cost is 1 + 2 = 3.
 
 ```
 
@@ -102,7 +105,7 @@ Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,
 
 
 ## Instalação 
-<p>Compilador C/C++ instalado </p>
+<p>Compilador C/C++ instalado e Python 3 instalado </p> 
 
 
-**Linguagem**: C, C++ <br>
+**Linguagem**: C, Python 3 <br>
