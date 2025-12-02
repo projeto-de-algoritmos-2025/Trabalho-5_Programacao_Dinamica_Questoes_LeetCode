@@ -45,7 +45,10 @@
 
 ## Link do vídeo da apresentação da dupla 
 
-[(Link do Vídeo)]()
+### Clique no link abaixo para ser direcionado para o vídeo de apresentação da dupla no youtube 
+
+
+[(Link do Vídeo)](https://youtu.be/U_-nf0wC0IY)
 
 
 ## Guia de execução
